@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AI, Python, java**
 
-- 📫 How to reach me **firdousparveen098@gmail.com**
+- 📫 Reach me **firdousparveen098@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1i8VcunZagwrUrb7DxwcELdeYogomOeNB4b_qeZwhnRo/edit?usp=sharing](https://docs.google.com/document/d/1i8VcunZagwrUrb7DxwcELdeYogomOeNB4b_qeZwhnRo/edit?usp=sharing)
 
