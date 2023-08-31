@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Firdous parveen</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">Hi 👋, I'm Firdous parveen</h1> <img align="centre" alt="coding" src="https://user-images.githubusercontent.com/35267447/206916906-9bfb66d9-c419-44c2-908a-4885e610425f.gif">
+
+<h3 align="center">A passionate Web developer from India. And currently I am working on the post of Team Manager in a company </h3>
 <img align="right" alt="coding" width="400" src="https://cdn.lowgif.com/full/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdous-parveen&label=Profile%20views&color=0e75b6&style=flat" alt="firdous-parveen" /> </p>
